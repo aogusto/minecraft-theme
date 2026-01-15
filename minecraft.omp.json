@@ -5,13 +5,13 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#8B5A2B",
+          "foreground": "#55FFFF",
           "style": "plain",
           "template": "{{ .UserName }} ",
           "type": "session"
         },
         {
-          "foreground": "#808080",
+          "foreground": "#bbbbbb",
           "style": "plain",
           "template": "in ",
           "type": "text"
@@ -42,7 +42,7 @@
         {
           "foreground": "#55FFFF",
           "style": "plain",
-          "template": " ⛏ ",
+          "template": "\u26cf\ufe0f ",
           "type": "text"
         }
       ],
